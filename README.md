@@ -1,25 +1,25 @@
 # ddd-cqrs-user-invoice-console-app
-Repozytorium demonstracyjne aplikacji konsolowej implementującej zasady Domain-Driven Design (DDD) oraz Command Query Responsibility Segregation (CQRS). Aplikacja obsługuje użytkowników oraz faktury.
+A demo repository of a console application implementing Domain-Driven Design (DDD) and Command Query Responsibility Segregation (CQRS) principles. The application manages users and invoices.
 
-### Funkcje:
-- Rejestracja i zarządzanie użytkownikami
-- Tworzenie i zarządzanie fakturami
-- Implementacja wzorców DDD i CQRS
+### Features:
+- User registration and management
+- Invoice creation and management
+- Implementation of DDD and CQRS patterns
 
-### Technologie:
+### Technologies:
 - PHP
 - Symfony
 - Doctrine ORM
 
-### Jak uruchomić:
-1. Sklonuj repozytorium
-2. Zainstaluj zależności
-3. Uruchom aplikację konsolową
+### How to Run:
+1. Clone the repository  
+2. Install dependencies  
+3. Run the console application
 
-### Struktura katalogów:
+### Directory Structure:
 - src/
 - tests/
 - config/
 
-### Licencja:
+### License:
 MIT
